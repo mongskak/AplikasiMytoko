@@ -1,5 +1,6 @@
 <h2>Aplikasi My Toko</h2>
 <p>adalah aplikasi sederhana dengan react js sebagai front end dan node js express js sebagai backend</p>
+<img src='https://github.com/senthilmca90/mern-crud/blob/master/customers_api.gif?raw=true' alt='Preview'>
 <h2>Fitur</h2>
 <li>Katalog</li>
 <li>Management Product </li>
