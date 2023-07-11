@@ -1,12 +1,12 @@
 <h2>Aplikasi My Toko</h2>
 <p>adalah aplikasi sederhana dengan react js sebagai front end dan node js express js sebagai backend</p>
-
+<img src="https://prnt.sc/yVtbdxeCnD_M"></img>
 <h2>Fitur</h2>
-<li>Tampilan Katalog</li>
+<li>Katalog</li>
 <li>Management Product </li>
-<li>create</li>
-<li>update</li>
-<li>delete</li>
+<li>Create Products</li>
+<li>Update Product</li>
+<li>Delete Product</li>
 
 <h2>Stack</h2>
 <ul>
