@@ -78,7 +78,6 @@ function ProductDetail() {
           });
           Swal.fire("Success!", response.data.msg, "success");
           navigate("/products");
-          navigate("/");
         } catch (error) {
           console.log(error);
         }
