@@ -15,3 +15,5 @@ MYSQL sebagai basis data
 Express.js sebagai backend framework
 rect.js sebagai frontend framework dan boostrap
 Node.js sebagai runtime environment
+
+Ditujukan sebagai proyek tugas akhir bootcamp404
