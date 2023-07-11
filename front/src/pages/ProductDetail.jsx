@@ -147,7 +147,11 @@ function ProductDetail() {
       <CpTitleAction
         title={id !== "new" ? "Update Product" : "Add Product"}
         action={
-          <Button variant="danger" onClick={deleteProduct}>
+          <Button
+            className={id !== "new" ? "" : "d-none"}
+            variant="danger"
+            onClick={deleteProduct}
+          >
             Delete
           </Button>
         }
