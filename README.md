@@ -1,15 +1,17 @@
 Aplikasi My Toko
 adalah aplikasi sederhana dengan react js sebagai front end dan node js express js sebagai backend
 
-<a href="#fitur">Fitur</a>
+<h2>Fitur</h2>
 
-Tampilan Katalog
-Management Product 
- create
- update
- delete
+<li>
+ <ul>Tampilan Katalog</ul>
+</li>
+<li>Management Product </li>
+<ul>create</ul>
+ <ul>update</ul>
+ <ul>delete</ul>
 
-Stack
+<h2>Stack</h2>
 
 MYSQL sebagai basis data
 Express.js sebagai backend framework
