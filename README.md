@@ -2,17 +2,19 @@
 <p>adalah aplikasi sederhana dengan react js sebagai front end dan node js express js sebagai backend</p>
 
 <h2>Fitur</h2>
-<ul>Tampilan Katalog</ul>
-<ul>Management Product </ul>
+<li>Tampilan Katalog</li>
+<li>Management Product </li>
 <li>create</li>
- <li>update</li>
- <li>delete</li>
+<li>update</li>
+<li>delete</li>
 
 <h2>Stack</h2>
+<ul>
+ <li>MYSQL sebagai basis data</li>
+ <li>Express.js sebagai backend framework</li>
+ <li>react.js sebagai frontend framework dan boostrap</li>
+ <li>Node.js sebagai runtime environment</li>
+</ul>
 
-MYSQL sebagai basis data
-Express.js sebagai backend framework
-react.js sebagai frontend framework dan boostrap
-Node.js sebagai runtime environment
-
-Ditujukan sebagai proyek tugas akhir bootcamp404
+<h2>footnote</h2>
+<p>Ditujukan sebagai proyek tugas akhir bootcamp404</p>
