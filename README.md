@@ -5,6 +5,8 @@
 <li>Katalog</li>
 <li>Management Product </li>
 <li>Create Products</li>
+<li>Sign In</li>
+<li>Sign Up</li>
 
 <li>Update Product</li>
 <li>Delete Product</li>
